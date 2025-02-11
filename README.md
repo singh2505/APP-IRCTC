@@ -9,8 +9,7 @@
 - [Running the Project](#running-the-project)
 - [API Endpoints](#api-endpoints)
 - [Security Measures](#security-measures)
-- [Assumptions](#assumptions)
-- [License](#license)
+
 
 ---
 
