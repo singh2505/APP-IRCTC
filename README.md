@@ -34,7 +34,7 @@ To run the project locally, follow these steps:
 
 ### 1. Clone the repository
 ```sh
-git clone [<repo-link>](https://github.com/singh2505/APP-IRCTC.git)
+git clone https://github.com/singh2505/APP-IRCTC.git
 cd APP-IRCTC
 ```
 
